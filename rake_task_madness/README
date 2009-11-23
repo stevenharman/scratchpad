@@ -1,0 +1,1 @@
+An example rakefile showing the unexpected result of yielding the task's "do" block from the initializer.
